@@ -46,8 +46,6 @@ params:
 
   label:
     text: "Nikolaos Gkarlis"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
 
   homeInfoParams:
     Title: "Hi there \U0001F44B"
@@ -64,14 +62,14 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/nikolaos-gkarlis-12b61a67/"
     - name: email
-      url: "mailto:nickgarlis@gmail.com?subject=Suggesting changes for "
+      url: "mailto:nickgarlis@gmail.com"
 
   # analytics:
   #   google:
   #     SiteVerificationTag: "XYZabc"
 
   editPost:
-    URL: "https://github.com/nickgarlis/blog/content"
+    URL: "https://github.com/nickgarlis/blog/blob/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
