@@ -17,7 +17,7 @@ params:
   description: "My personal blog about infrastructure engineering, distributed systems, and networks."
   keywords: [Blog, Infrastructure, Systems, Networks, Go, Kubernetes, DevOps]
   author: Me
-  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["images/cover.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -32,7 +32,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: true
+  comments: false
   hidemeta: false
   hideSummary: false
   showtoc: false
